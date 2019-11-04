@@ -1,5 +1,5 @@
-### Day7: HOTEL MANAGER
-### Mục tiêu và kết quả đạt được
+###### Day7: HOTEL MANAGER
+###### Mục tiêu và kết quả đạt được
 1. Mục tiêu:
 Phần mềm phải dễ sử dụng và cài đặt.
 Người quản lí có quyền cao nhất và quản lí những mục như khách hàng thông qua tiếp tân, quản lí tiếp tân, nhân viên bán hàng và phòng khách sạn.
